@@ -1,6 +1,3 @@
-channels:
-  - conda-forge
-dependencies:
-  - r-base=3.6
-  - r-tidyverse
-  
+version https://git-lfs.github.com/spec/v1
+oid sha256:101c41e0370cca9a36dadbf97ad6e76536e11f5830b8ed48dca10eb6e6cc394d
+size 104
